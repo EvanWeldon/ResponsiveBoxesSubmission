@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    background-color: maroon;
+    line-height: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    font-family: monospace;
+    color: black;
+    background-color: goldenrod;
+}
